@@ -71,7 +71,7 @@ A full-stack e-commerce platform offering product browsing, advanced search and 
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/TanmayKothari-stack
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+- LinkedIn: https://www.linkedin.com/in/tanmay-kothari-696762298?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - Portfolio: https://YOUR_WEBSITE
 
 ---
