@@ -51,7 +51,7 @@
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/TanmayKothari-stack
 - LinkedIn: https://linkedin.com/in/YOUR_USERNAME
 - Portfolio: https://YOUR_WEBSITE
 
