@@ -22,7 +22,7 @@
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tanmaykothari-stack&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=TanmayKothari-stack&theme=tokyonight)
 
 ---
 
