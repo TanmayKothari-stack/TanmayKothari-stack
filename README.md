@@ -41,11 +41,30 @@
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Top Projects
 
-- 🚀 Project 1 – Short description
-- 📱 Project 2 – Short description
-- 🤖 AI Project – Short description
+### 💬 ChatSphere – Real-Time Chat Application
+
+A modern real-time messaging platform that enables instant one-to-one and group conversations with secure authentication, online presence indicators, file sharing, and responsive design. Built to deliver fast, reliable, and seamless communication across devices.
+
+**Tech Stack:** React, Node.js, Express.js, Socket.IO, MongoDB
+
+---
+
+### 🌐 ConnectHub – Social Networking Platform
+
+A feature-rich social networking application where users can create profiles, share posts, like and comment on content, follow other users, send friend requests, and receive real-time notifications. Designed with a focus on user engagement and scalability.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB, JWT
+
+---
+
+### 🛒 ShopVerse – E-Commerce Application
+
+A full-stack e-commerce platform offering product browsing, advanced search and filtering, shopping cart management, secure authentication, order tracking, payment gateway integration, and an intuitive admin dashboard for managing products and orders.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Stripe
+
 
 ---
 
