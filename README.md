@@ -12,9 +12,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Programming Languages
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanmayKothari-stack&show_icons=true&theme=tokyonight)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp,go,kotlin" />
+</p>
+
+## 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,supabase,sqlite" />
+</p>
 
 ## 🚀 Frameworks
 
